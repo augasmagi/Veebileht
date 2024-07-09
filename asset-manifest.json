@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Veebileht/static/css/main.ff02f4b5.css",
+    "main.js": "/Veebileht/static/js/main.a0b7379f.js",
+    "static/js/453.ede2c593.chunk.js": "/Veebileht/static/js/453.ede2c593.chunk.js",
+    "static/media/Author.jpg": "/Veebileht/static/media/Author.1332bb4269c33bc7939d.jpg",
+    "index.html": "/Veebileht/index.html",
+    "main.ff02f4b5.css.map": "/Veebileht/static/css/main.ff02f4b5.css.map",
+    "main.a0b7379f.js.map": "/Veebileht/static/js/main.a0b7379f.js.map",
+    "453.ede2c593.chunk.js.map": "/Veebileht/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.a0b7379f.js"
+  ]
+}
